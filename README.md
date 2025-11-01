@@ -1,24 +1,25 @@
 Ce dépôt contient le Test Technique Final de ma formation Full Pack IA. Il est composé d’un QCM et de 4 projets pratiques, réalisés avec Google Colab :
 
-📌 Projets inclus
-Prédiction de la fraude bancaire
+📌**Projets inclus**
 
-Modèle utilisé : XGBoost
+**Prédiction de la fraude bancaire**
 
-Objectif : Identifier les transactions frauduleuses à partir de données bancaires.
+* Modèle utilisé : XGBoost
 
-Analyse de sentiments sur des avis de films
+* Objectif : Identifier les transactions frauduleuses à partir de données bancaires.
 
-Modèles utilisés : LSTM et GRU
+**Analyse de sentiments sur des avis de films**
 
-Objectif : Classifier les critiques de films en sentiments positifs ou négatifs.
+* Modèles utilisés : LSTM et GRU
 
-Prédiction des prix de l’immobilier
+* Objectif : Classifier les critiques de films en sentiments positifs ou négatifs.
 
-Modèles utilisés : Random Forest et Gradient Boosting
+**Prédiction des prix de l’immobilier**
 
-Objectif : Estimer le prix de vente de biens immobiliers selon leurs caractéristiques.
+* Modèles utilisés : Random Forest et Gradient Boosting
 
-OCR intelligent pour lecture automatique de factures
+* Objectif : Estimer le prix de vente de biens immobiliers selon leurs caractéristiques.
 
-Objectif : Extraire automatiquement les informations clés (montant, date, fournisseur) à partir d’images de factures.
+**OCR intelligent pour lecture automatique de factures**
+
+* Objectif : Extraire automatiquement les informations clés (montant, date, fournisseur) à partir d’images de factures.
